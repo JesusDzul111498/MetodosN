@@ -8,7 +8,7 @@ import java.math.*;
 
 /**
  *
- * @author cobak
+ * @author Dzul Canul Jesus geovany
  */
 public class metodoss 
 {//inicio de la clase 
