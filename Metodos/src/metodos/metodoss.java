@@ -7,7 +7,7 @@ package Metodos;
 import java.math.*;
 
 /**
- *
+ *kaul alexis
  * @author Dzul Canul Jesus geovany
  */
 public class metodoss 
